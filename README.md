@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 License Plate Detector
+# 🚗 Car License Plate Recognition
 
 ### نظام كشف وتمييز لوحات السيارات العراقية باستخدام Deep Learning
 
